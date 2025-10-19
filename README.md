@@ -2,6 +2,8 @@
 
 An AI-powered interview platform built with Next.js, React, and TypeScript.
 
+# Live app - https://ai-interview-assistance2-y294.vercel.app
+
 ## Features
 
 - **Email/Password Authentication**: Secure signup and login system
